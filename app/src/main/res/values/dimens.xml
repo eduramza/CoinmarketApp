@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_nome_moeda">20sp</dimen>
+    <dimen name="tv_padrao1">14sp</dimen>
+    <dimen name="tv_padrao2">16sp</dimen>
+    <dimen name="tv_titulo1">30sp</dimen>
+
+</resources>
